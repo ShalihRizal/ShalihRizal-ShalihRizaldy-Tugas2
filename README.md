@@ -1,10 +1,10 @@
 # ShalihRizal-ShalihRizaldy-Tugas2
 
 ----Bugs----
-1. Variable _score yang tidak ada di GameManager.cs [low]
-2. Variable score yang bertipe int di-assign kedalam text [Very High]
-3. Game sudah berjalan bahkan sebelum tombol play ditekan [High]
-4. Plane masih terjatuh setelah countdown berakhir [Very High]  
+1. Variable _score yang tidak ada di GameManager.cs [High]
+2. Variable score yang bertipe int di-assign kedalam text [High]
+3. Game sudah berjalan bahkan sebelum tombol play ditekan [Very High]
+4. Plane masih terjatuh setelah countdown berakhir [High]  
 5. Plane malah lebih kebawah saat diklik [Very High]  
 6. Plane masih melaju bahkan setelah menabrak Obstacle [Very High] 
 7. Penempatan tombol play menimpa text judul game [Low] 
